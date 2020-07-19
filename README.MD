@@ -1,3 +1,2 @@
-WEBSITE FOR RUMAH PENA
 
-[DEMO](https://gagassss.github.io/rumah-pena/)
+[GO TO WEBSITE](https://gagassss.github.io/itcnesta/)
